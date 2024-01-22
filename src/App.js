@@ -20,6 +20,8 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <div>아에이오우</div>
     </div>
   );
 }
