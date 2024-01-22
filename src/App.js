@@ -20,6 +20,8 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <div>안녕 나는 conf2야!!</div>
     </div>
   );
 }
